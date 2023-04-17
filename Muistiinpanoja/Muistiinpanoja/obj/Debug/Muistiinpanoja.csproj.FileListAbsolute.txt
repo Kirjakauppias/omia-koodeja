@@ -1,0 +1,6 @@
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\bin\Debug\Muistiinpanoja.exe.config
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\obj\Debug\Muistiinpanoja.csprojResolveAssemblyReference.cache
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\bin\Debug\Muistiinpanoja.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\bin\Debug\Muistiinpanoja.pdb
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\obj\Debug\Muistiinpanoja.exe
+C:\Users\mikko.lepisto\Documents\GitHub\Muistiinpanoja\Muistiinpanoja\obj\Debug\Muistiinpanoja.pdb
